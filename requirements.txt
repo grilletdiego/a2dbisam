@@ -1,0 +1,6 @@
+Flask
+Flask-CORS
+pyodbc
+pymongo
+bson
+datetime
